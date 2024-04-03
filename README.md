@@ -20,7 +20,7 @@ Installation
 
   To get started, clone the repository and install the necessary Python libraries: 
 ```bash
-git clone https://github.com/your-username/Damaged-Cart-QR-Code-Generator.git
+git clone https://github.com/jbloch100/Annotated-QR-Code-Generator.git
 pip install pillow qrcode
 
 Usage

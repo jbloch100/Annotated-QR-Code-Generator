@@ -29,6 +29,7 @@ Usage
 Configuration
 
   The script is pre-configured to point to the Dragonfly website used within the Amazon A to Z application. To modify the URL or text annotation:
+    
     • Update qr.add_data('your-dragonfly-url-here') with the actual Dragonfly URL.
     • Change text = "Damaged Cart" to any other text you wish to appear below the QR code.
 

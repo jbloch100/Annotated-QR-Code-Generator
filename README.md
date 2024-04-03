@@ -19,8 +19,8 @@ Prerequisites
 Installation 
 
   To get started, clone the repository and install the necessary Python libraries: 
-    git clone https://github.com/jbloch100/Annotated-QR-Code-Generator.git
-    pip install pillow qrcode
+    - git clone https://github.com/jbloch100/Annotated-QR-Code-Generator.git
+    - pip install pillow qrcode
 
 Usage
 
